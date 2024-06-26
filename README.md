@@ -3,24 +3,24 @@
 💻 I'm just a 🎀girlie🎀 pursuing a Technical Diploma in Programming at the National Technological University (UTN) 🇦🇷.
 
 🧩 This semester I'm learning: 
-                                PHP SLIM -> Developing a Restaurant app -> API REST
-                                HTTPS Requests
-                                HTML, CSS and JavaScript
+- PHP SLIM -> Developing a Restaurant app -> API REST
+- HTTPS Requests
+- HTML, CSS and JavaScript
 
 🧮 Previous semesters I've learnt:
-                                  Python -> and also Pygames
-                                  C# .NET 
-                                  JavaScript -> vanilla
+- Python -> and also Pygames
+- C# .NET
+- JavaScript -> vanilla
 
 📢 Languages: 
-              Spanish
-              English -> fluid
-              Mandarin Chinese -> basic, I've passed the HSK1.
+- Spanish
+- English -> fluid
+- Mandarin Chinese -> basic, I've passed the HSK1.
 
 
 📬How to reach me:
-                  Linkedin: /in/emiliaquiroga/
-                  Email: emiliaquiroga46@gmail.com
+- Linkedin: /in/emiliaquiroga/
+- Email: emiliaquiroga46@gmail.com
 
 
 
