@@ -1,26 +1,20 @@
 ## Hi, I'm María Emilia🫧
-
 💻 I'm just a 🎀girlie🎀 pursuing a Technical Diploma in Programming at the National Technological University (UTN) 🇦🇷.
 
 🧩 This semester I'm learning: 
-- PHP SLIM -> Developing a Restaurant app -> API REST
-- HTTPS Requests
+- PHP SLIM -> Developing a Restaurant app -> API REST & HTTPS Requests.
 - HTML, CSS and JavaScript
 
 🧮 Previous semesters I've learnt:
-- Python -> and also Pygames
+- Python -> and Pygames!
 - C# .NET
 - JavaScript -> vanilla
 
 📢 Languages: 
-- Spanish
-- English -> fluid
-- Mandarin Chinese -> basic, I've passed the HSK1.
-
+Spanish || English (fluid) 
 
 📬How to reach me:
-- Linkedin: /in/emiliaquiroga/
-- Email: emiliaquiroga46@gmail.com
+Linkedin: /in/emiliaquiroga/ || Email: emiliaquiroga46@gmail.com
 
 
 
