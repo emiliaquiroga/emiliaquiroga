@@ -14,7 +14,8 @@
 Spanish || English (fluid) 
 
 📬How to reach me:
-Linkedin: /in/emiliaquiroga/ || Email: emiliaquiroga46@gmail.com
+www.linkedin.com/in/emiliaquiroga/
+Email: emiliaquiroga46@gmail.com
 
 
 
