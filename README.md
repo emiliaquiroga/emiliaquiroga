@@ -1,4 +1,4 @@
-## Hi, I'm María Emilia🫧
+### Hi, I'm María Emilia🫧
 ![bubbles](https://github.com/emiliaquiroga/emiliaquiroga/assets/103537790/c1d4fe98-8fba-4f74-b6de-5b1129900339)
 
 💻 I'm just a 🎀girlie🎀 pursuing a Technical Diploma in Programming at the National Technological University (UTN) 🇦🇷.
