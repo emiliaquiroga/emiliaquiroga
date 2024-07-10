@@ -1,4 +1,6 @@
 ## Hi, I'm María Emilia🫧
+![bubbles](https://github.com/emiliaquiroga/emiliaquiroga/assets/103537790/c1d4fe98-8fba-4f74-b6de-5b1129900339)
+
 💻 I'm just a 🎀girlie🎀 pursuing a Technical Diploma in Programming at the National Technological University (UTN) 🇦🇷.
 
 🧩 This semester I'm learning: 
@@ -16,8 +18,8 @@ Spanish || English (fluid)
 📬How to reach me:
 - www.linkedin.com/in/emiliaquiroga/
 - Email: emiliaquiroga46@gmail.com
-
-
+  
+![korean instagram   asian pale aesthetics @acidmixx](https://github.com/emiliaquiroga/emiliaquiroga/assets/103537790/8462ecaf-b7ac-4922-968d-81cdf4afc866) 
 
 
 <!--
