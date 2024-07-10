@@ -19,8 +19,6 @@ Spanish || English (fluid)
 - www.linkedin.com/in/emiliaquiroga/
 - Email: emiliaquiroga46@gmail.com
   
-![korean instagram   asian pale aesthetics @acidmixx](https://github.com/emiliaquiroga/emiliaquiroga/assets/103537790/8462ecaf-b7ac-4922-968d-81cdf4afc866) 
-
 
 <!--
 **emiliaquiroga/emiliaquiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
