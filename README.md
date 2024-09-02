@@ -3,14 +3,17 @@
 
 💻 I'm just a 🎀girlie🎀 pursuing a Technical Diploma in Programming at the National Technological University (UTN) 🇦🇷.
 
-🧩 This semester I'm learning: 
-- PHP SLIM -> Developing a Restaurant app -> API REST & HTTPS Requests.
-- HTML, CSS and JavaScript
+🧩 This semester I'm learning:
+- Angular
+- DataBase design and adminitration
+
 
 🧮 Previous semesters I've learnt:
 - Python -> and Pygames!
 - C# .NET
 - JavaScript -> vanilla
+- PHP SLIM ->  API REST & HTTPS Requests.
+- HTML, CSS and JavaScript
 
 📢 Languages: 
 Spanish || English (fluid) 
